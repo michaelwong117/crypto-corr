@@ -1,0 +1,18 @@
+metric,value
+pit_start,2021-01-01
+end_exclusive,2026-04-27
+candidate_symbols_before_exclusion,4433
+excluded_symbols,188
+candidate_symbols_after_exclusion,4245
+unique_selected_symbols,185
+pit_days,1941
+rebalance_months,64
+mean_daily_universe_size,50.0
+min_daily_universe_size,50
+max_daily_universe_size,50
+top_n,50
+min_history_days,730
+liquidity_metric,"90d median Yahoo-reported USD volume, lagged to t-1"
+liquidity_lookback_days,90
+min_volume_obs,80
+rebalance_frequency,monthly; first available Yahoo date each calendar month

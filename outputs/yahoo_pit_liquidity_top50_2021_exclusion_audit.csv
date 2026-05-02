@@ -1,0 +1,189 @@
+symbol,shortName,longName,base_symbol_clean,exclude_reason
+USDT-USD,Tether USDt USD,Tether USDt USD,USDT,stablecoin_base
+USDC-USD,USDC USD,USD Coin USD,USDC,stablecoin_base
+WETH-USD,WETH USD,WETH USD,WETH,wrapped_or_derivative_base
+VBNB-USD,Venus BNB USD,,VBNB,wrapped_derivative_or_real_asset_name
+USDE29470-USD,Ethena USDe USD,Ethena USDe USD,USDE,stablecoin_base
+SOL16116-USD,Wrapped Solana USD,Wrapped Solana USD,SOL,wrapped_derivative_or_real_asset_name
+WBNB-USD,Wrapped BNB USD,Wrapped BNB USD,WBNB,wrapped_or_derivative_base
+FDUSD-USD,First Digital USD USD,,FDUSD,stablecoin_base
+WBTC-USD,Wrapped Bitcoin USD,Wrapped Bitcoin USD,WBTC,wrapped_or_derivative_base
+PAXG-USD,PAX Gold USD,PAX Gold USD,PAXG,tokenized_real_asset_base
+PYUSD-USD,PayPal USD USD,PayPal USD USD,PYUSD,stablecoin_base
+XAUT-USD,Tether Gold USD,Tether Gold USD,XAUT,tokenized_real_asset_base
+USDD-USD,USDD USD,USDD USD,USDD,stablecoin_base
+DAI-USD,Dai USD,Dai USD,DAI,stablecoin_base
+SUSDE-USD,Ethena Staked USDe USD,Ethena Staked USDe USD,SUSDE,stablecoin_base
+BTCB-USD,Bitcoin BEP2 USD,Bitcoin BEP2 USD,BTCB,wrapped_or_derivative_base
+STETH-USD,Lido Staked ETH USD,Lido Staked ETH USD,STETH,wrapped_or_derivative_base
+VCAKE28404-USD,Venus CAKE USD,Venus CAKE USD,VCAKE,wrapped_derivative_or_real_asset_name
+WSTETH-USD,Lido wstETH USD,Lido wstETH USD,WSTETH,wrapped_or_derivative_base
+WEETH-USD,Wrapped eETH USD,Wrapped eETH USD,WEETH,wrapped_or_derivative_base
+WAVAX-USD,Wrapped AVAX USD,Wrapped AVAX USD,WAVAX,wrapped_or_derivative_base
+VETH-USD,Venus ETH USD,Venus ETH USD,VETH,wrapped_derivative_or_real_asset_name
+EURC-USD,EURC USD,,EURC,stablecoin_base
+CRVUSD-USD,crvUSD USD,,CRVUSD,stablecoin_base
+WTFUEL-USD,Wrapped TFUEL USD,Wrapped TFUEL USD,WTFUEL,wrapped_derivative_or_real_asset_name
+TBTC26133-USD,tBTC USD,tBTC USD,TBTC,wrapped_or_derivative_base
+USDCE-USD,USD Coin Bridged USD,USD Coin Bridged USD,USDCE,stablecoin_name
+WTHETA-USD,Wrapped THETA USD,Wrapped THETA USD,WTHETA,wrapped_derivative_or_real_asset_name
+VXVS-USD,Venus XVS USD,,VXVS,wrapped_derivative_or_real_asset_name
+TUSD-USD,TrueUSD USD,TrueUSD USD,TUSD,stablecoin_base
+WBETH-USD,Wrapped Beacon ETH USD,Wrapped Beacon ETH USD,WBETH,wrapped_or_derivative_base
+VDOGE-USD,Venus Dogecoin USD,,VDOGE,wrapped_derivative_or_real_asset_name
+UGOLD-USD,UGOLD Inc. USD,UGOLD Inc. USD,UGOLD,tokenized_real_asset_base
+VLINK-USD,Venus LINK USD,,VLINK,wrapped_derivative_or_real_asset_name
+VLTC-USD,Venus LTC USD,,VLTC,wrapped_derivative_or_real_asset_name
+JITOSOL-USD,Jito Staked SOL USD,Jito Staked SOL USD,JITOSOL,wrapped_derivative_or_real_asset_name
+VXRP-USD,Venus XRP USD,,VXRP,wrapped_derivative_or_real_asset_name
+GUSD-USD,Gemini Dollar USD,Gemini Dollar USD,GUSD,stablecoin_base
+XVS-USD,Venus USD,Venus USD,XVS,wrapped_derivative_or_real_asset_name
+VDOT-USD,Venus DOT USD,,VDOT,wrapped_derivative_or_real_asset_name
+BTCB20721-USD,Bitcoin Avalanche Bridged USD,Bitcoin Avalanche Bridged USD,BTCB,wrapped_or_derivative_base
+AGLD-USD,Adventure Gold USD,Adventure Gold USD,AGLD,wrapped_derivative_or_real_asset_name
+CBETH-USD,Coinbase Wrapped Staked ETH USD,Coinbase Wrapped Staked ETH USD,CBETH,wrapped_or_derivative_base
+VFIL-USD,Venus Filecoin USD,,VFIL,wrapped_derivative_or_real_asset_name
+LQTY-USD,Liquity USD,Liquity USD,LQTY,stablecoin_name
+VUNI-USD,Venus UNI USD,Venus UNI USD,VUNI,wrapped_derivative_or_real_asset_name
+VSXP-USD,Venus SXP USD,,VSXP,wrapped_derivative_or_real_asset_name
+VDAI-USD,Venus DAI USD,,VDAI,stablecoin_name
+VBCH-USD,Venus BCH USD,,VBCH,wrapped_derivative_or_real_asset_name
+FRAX6953-USD,Frax (prev. FXS) USD,Frax (prev. FXS) USD,FRAX,stablecoin_base
+USDP8886-USD,USDP Stablecoin USD,USDP Stablecoin USD,USDP,stablecoin_base
+RETH-USD,Rocket Pool ETH USD,Rocket Pool ETH USD,RETH,wrapped_or_derivative_base
+BETH-USD,Beacon ETH USD,Beacon ETH USD,BETH,wrapped_or_derivative_base
+USDP-USD,Pax Dollar USD,Pax Dollar USD,USDP,stablecoin_base
+WNEAR-USD,Wrapped Near USD,Wrapped Near USD,WNEAR,wrapped_or_derivative_base
+SAVAX-USD,BENQI Liquid Staked AVAX USD,BENQI Liquid Staked AVAX USD,SAVAX,wrapped_derivative_or_real_asset_name
+VAAVE-USD,Venus AAVE USD,Venus AAVE USD,VAAVE,wrapped_derivative_or_real_asset_name
+STRX24875-USD,Staked TRX USD,Staked TRX USD,STRX,wrapped_derivative_or_real_asset_name
+USTC-USD,TerraClassicUSD USD,TerraClassicUSD USD,USTC,stablecoin_base
+VBUSD-USD,Venus BUSD USD,,VBUSD,wrapped_derivative_or_real_asset_name
+WTRX-USD,Wrapped TRON USD,Wrapped TRON USD,WTRX,wrapped_derivative_or_real_asset_name
+CGO-USD,Comtech Gold USD,Comtech Gold USD,CGO,wrapped_derivative_or_real_asset_name
+USDS17285-USD,Sperax USD USD,Sperax USD USD,USDS,stablecoin_base
+VBETH-USD,Venus BETH USD,Venus BETH USD,VBETH,wrapped_derivative_or_real_asset_name
+MSOL-USD,Marinade Staked SOL USD,Marinade Staked SOL USD,MSOL,wrapped_derivative_or_real_asset_name
+BUSD-USD,BUSD USD,BUSD USD,BUSD,stablecoin_base
+WMATIC-USD,Wrapped Matic USD,Wrapped Matic USD,WMATIC,wrapped_derivative_or_real_asset_name
+WCRO-USD,Wrapped CRO USD,Wrapped CRO USD,WCRO,wrapped_derivative_or_real_asset_name
+VTRX-USD,Venus TRX USD,Venus TRX USD,VTRX,wrapped_derivative_or_real_asset_name
+AXLUSDC-USD,Axelar Wrapped USDC USD,,AXLUSDC,stablecoin_name
+FRXETH-USD,Frax Finance - Frax Ether USD,Frax Finance - Frax Ether USD,FRXETH,wrapped_or_derivative_base
+OSETH-USD,StakeWise Staked ETH USD,StakeWise Staked ETH USD,OSETH,wrapped_or_derivative_base
+XSGD-USD,XSGD USD,XSGD USD,XSGD,stablecoin_base
+WNXM-USD,Wrapped NXM USD,Wrapped NXM USD,WNXM,wrapped_derivative_or_real_asset_name
+OUSD-USD,Origin Dollar USD,Origin Dollar USD,OUSD,stablecoin_base
+WMNT-USD,Wrapped Mantle USD,Wrapped Mantle USD,WMNT,wrapped_derivative_or_real_asset_name
+USDBC-USD,Bridged USDC USD,Bridged USDC USD,USDBC,stablecoin_name
+METH29035-USD,Mantle Staked Ether USD,Mantle Staked Ether USD,METH,wrapped_or_derivative_base
+WXDAI-USD,Wrapped XDAI USD,,WXDAI,wrapped_derivative_or_real_asset_name
+FRAX-USD,Legacy Frax Dollar USD,Legacy Frax Dollar USD,FRAX,stablecoin_base
+CUSD-USD,Celo Dollar USD,Celo Dollar USD,CUSD,stablecoin_base
+WDOGE-USD,Wrapped Dogecoin USD,Wrapped Dogecoin USD,WDOGE,wrapped_derivative_or_real_asset_name
+USTC15610-USD,Terra Classic USD (Wormhole) USD,Terra Classic USD (Wormhole) USD,USTC,stablecoin_base
+WOKB-USD,Wrapped OKB USD,Wrapped OKB USD,WOKB,wrapped_derivative_or_real_asset_name
+SLISBNB-USD,Lista Staked BNB USD,Lista Staked BNB USD,SLISBNB,wrapped_derivative_or_real_asset_name
+WXDC-USD,Wrapped XDC USD,Wrapped XDC USD,WXDC,wrapped_or_derivative_base
+EZETH-USD,Renzo Restaked ETH USD,Renzo Restaked ETH USD,EZETH,wrapped_or_derivative_base
+WTAO-USD,Wrapped TAO USD,Wrapped TAO USD,WTAO,wrapped_derivative_or_real_asset_name
+VTUSD-USD,Venus TUSD USD,Venus TUSD USD,VTUSD,wrapped_derivative_or_real_asset_name
+WEGLD-USD,Wrapped EGLD USD,Wrapped EGLD USD,WEGLD,wrapped_derivative_or_real_asset_name
+VAI8479-USD,VAIOT USD,VAIOT USD,VAI,stablecoin_base
+CEUR-USD,Celo Euro USD,Celo Euro USD,CEUR,stablecoin_base
+VSUI-USD,Volo Staked SUI USD,Volo Staked SUI USD,VSUI,wrapped_derivative_or_real_asset_name
+DOLA-USD,DOLA USD,DOLA USD,DOLA,stablecoin_base
+USDCWORMHOLE-USD,USD Coin (Wormhole) USD,USD Coin (Wormhole) USD,USDCWORMHOLE,stablecoin_name
+HASUI-USD,Haedal Staked SUI USD,Haedal Staked SUI USD,HASUI,wrapped_derivative_or_real_asset_name
+WXTZ-USD,Wrapped XTZ USD,Wrapped XTZ USD,WXTZ,wrapped_derivative_or_real_asset_name
+BSOL-USD,BlazeStake Staked SOL USD,BlazeStake Staked SOL USD,BSOL,wrapped_derivative_or_real_asset_name
+USDB29599-USD,USDB USD,USDB USD,USDB,stablecoin_base
+SUSD-USD,sUSD USD,sUSD USD,SUSD,stablecoin_base
+HBTC-USD,Huobi BTC USD,Huobi BTC USD,HBTC,wrapped_or_derivative_base
+EETH-USD,ether.fi Staked ETH USD,ether.fi Staked ETH USD,EETH,wrapped_derivative_or_real_asset_name
+WCHZ-USD,Wrapped Chiliz USD,Wrapped Chiliz USD,WCHZ,wrapped_derivative_or_real_asset_name
+WCFX-USD,Wrapped Conflux USD,Wrapped Conflux USD,WCFX,wrapped_derivative_or_real_asset_name
+WWDOGE-USD,Wrapped WDOGE USD,Wrapped WDOGE USD,WWDOGE,wrapped_derivative_or_real_asset_name
+STSOL-USD,Lido Staked SOL USD,Lido Staked SOL USD,STSOL,wrapped_derivative_or_real_asset_name
+WSEI-USD,Wrapped Sei USD,Wrapped Sei USD,WSEI,wrapped_derivative_or_real_asset_name
+SWETH-USD,swETH USD,swETH USD,SWETH,wrapped_or_derivative_base
+SFRXETH-USD,Frax Staked Ether USD,Frax Staked Ether USD,SFRXETH,wrapped_or_derivative_base
+LUSD-USD,Liquity USD USD,Liquity USD USD,LUSD,stablecoin_base
+MIM-USD,Magic Internet Money USD,Magic Internet Money USD,MIM,stablecoin_base
+CDCETH-USD,Crypto.com Staked ETH USD,Crypto.com Staked ETH USD,CDCETH,wrapped_or_derivative_base
+JSOL-USD,JPool Staked SOL (JSOL) USD,JPool Staked SOL (JSOL) USD,JSOL,wrapped_derivative_or_real_asset_name
+WALV-USD,Wrapped Alvey Chain USD,Wrapped Alvey Chain USD,WALV,wrapped_derivative_or_real_asset_name
+STATOM-USD,Stride Staked ATOM USD,Stride Staked ATOM USD,STATOM,wrapped_derivative_or_real_asset_name
+VAI-USD,Vai USD,Vai USD,VAI,stablecoin_base
+LSETH-USD,Liquid Staked ETH USD,Liquid Staked ETH USD,LSETH,wrapped_derivative_or_real_asset_name
+WSHIDO-USD,Wrapped Shido USD,Wrapped Shido USD,WSHIDO,wrapped_derivative_or_real_asset_name
+WBESC-USD,Wrapped BESC USD,Wrapped BESC USD,WBESC,wrapped_derivative_or_real_asset_name
+WCFG-USD,Wrapped Centrifuge USD,Wrapped Centrifuge USD,WCFG,wrapped_or_derivative_base
+WKAVA-USD,Wrapped Kava USD,Wrapped Kava USD,WKAVA,wrapped_derivative_or_real_asset_name
+STMATIC-USD,Lido Staked Matic USD,,STMATIC,wrapped_derivative_or_real_asset_name
+KAU24382-USD,Kinesis Gold USD,Kinesis Gold USD,KAU,wrapped_derivative_or_real_asset_name
+VNXAU-USD,VNX Gold USD,VNX Gold USD,VNXAU,wrapped_derivative_or_real_asset_name
+EURS-USD,STASIS EURO USD,STASIS EURO USD,EURS,stablecoin_base
+USDC30819-USD,Classic USD.C USD,Classic USD.C USD,USDC,stablecoin_base
+WLUNC-USD,Wrapped LUNA Classic USD,Wrapped LUNA Classic USD,WLUNC,wrapped_derivative_or_real_asset_name
+WVSG-USD,Wrapped VSG USD,Wrapped VSG USD,WVSG,wrapped_derivative_or_real_asset_name
+EDGESOL-USD,Edgevana Staked SOL USD,Edgevana Staked SOL USD,EDGESOL,wrapped_derivative_or_real_asset_name
+STNEAR-USD,Staked NEAR USD,Staked NEAR USD,STNEAR,wrapped_derivative_or_real_asset_name
+MIM29473-USD,Magic Internet Money USD,Magic Internet Money USD,MIM,stablecoin_base
+DIGAU-USD,Dignity Gold USD,Dignity Gold USD,DIGAU,wrapped_derivative_or_real_asset_name
+CARAT24480-USD,Alaska Gold Rush USD,Alaska Gold Rush USD,CARAT,wrapped_derivative_or_real_asset_name
+WEVER-USD,Wrapped Everscale USD,Wrapped Everscale USD,WEVER,wrapped_derivative_or_real_asset_name
+WADA-USD,Wrapped Cardano USD,Wrapped Cardano USD,WADA,wrapped_derivative_or_real_asset_name
+SUSD1-USD,Lorenzo staked USD1+ USD,Lorenzo staked USD1+ USD,SUSD,stablecoin_base
+EURT-USD,Tether EURt USD,Tether EURt USD,EURT,stablecoin_base
+CRVFRAX-USD,Curve.fi FRAX/USDC USD,Curve.fi FRAX/USDC USD,CRVFRAX,stablecoin_name
+ANKRBNB-USD,Ankr Staked BNB USD,Ankr Staked BNB USD,ANKRBNB,wrapped_derivative_or_real_asset_name
+WIOTX-USD,Wrapped IoTeX USD,Wrapped IoTeX USD,WIOTX,wrapped_derivative_or_real_asset_name
+BTG-USD,Bitcoin Gold USD,Bitcoin Gold USD,BTG,wrapped_derivative_or_real_asset_name
+WAMPL-USD,Wrapped Ampleforth USD,Wrapped Ampleforth USD,WAMPL,wrapped_derivative_or_real_asset_name
+SDAI-USD,Savings Dai USD,Savings Dai USD,SDAI,stablecoin_name
+GOLD28173-USD,Gold USD,,GOLD,wrapped_derivative_or_real_asset_name
+WCORE-USD,Wrapped Core USD,Wrapped Core USD,WCORE,wrapped_derivative_or_real_asset_name
+FPIS-USD,Frax Price Index Share USD,Frax Price Index Share USD,FPIS,stablecoin_name
+WNRG-USD,Wrapped-Energi USD,Wrapped-Energi USD,WNRG,wrapped_derivative_or_real_asset_name
+STAVAX-USD,Hypha Staked AVAX USD,Hypha Staked AVAX USD,STAVAX,wrapped_derivative_or_real_asset_name
+STAPT-USD,Ditto Staked Aptos USD,Ditto Staked Aptos USD,STAPT,wrapped_derivative_or_real_asset_name
+VUSDC-USD,Venus USDC USD,,VUSDC,stablecoin_name
+FPI-USD,Frax Price Index USD,Frax Price Index USD,FPI,stablecoin_name
+STUSDT-USD,Staked USDT USD,Staked USDT USD,STUSDT,wrapped_derivative_or_real_asset_name
+WILC-USD,Wrapped ILCOIN USD,Wrapped ILCOIN USD,WILC,wrapped_derivative_or_real_asset_name
+RENBTC-USD,renBTC USD,renBTC USD,RENBTC,wrapped_or_derivative_base
+WONE-USD,Wrapped Harmony USD,Wrapped Harmony USD,WONE,wrapped_or_derivative_base
+USDK-USD,USDK USD,USDK USD,USDK,stablecoin_base
+WFTM-USD,Wrapped Fantom USD,Wrapped Fantom USD,WFTM,wrapped_or_derivative_base
+STTIA-USD,Stride Staked TIA USD,Stride Staked TIA USD,STTIA,wrapped_derivative_or_real_asset_name
+ANG-USD,Aureus Nummus Gold USD,Aureus Nummus Gold USD,ANG,wrapped_derivative_or_real_asset_name
+WKCS-USD,Wrapped KuCoin Token USD,Wrapped KuCoin Token USD,WKCS,wrapped_derivative_or_real_asset_name
+WPOKT-USD,Wrapped POKT USD,Wrapped POKT USD,WPOKT,wrapped_derivative_or_real_asset_name
+FUSDC26744-USD,Fluid USDC USD,Fluid USDC USD,FUSDC,stablecoin_name
+CDAI-USD,Compound Dai USD,Compound Dai USD,CDAI,stablecoin_name
+JUSDC28290-USD,TON Bridged USDC USD,,JUSDC,stablecoin_name
+WG999-USD,Wrapped G999 USD,Wrapped G999 USD,WG,wrapped_derivative_or_real_asset_name
+WKAS-USD,Wrapped Kaspa USD,Wrapped Kaspa USD,WKAS,wrapped_derivative_or_real_asset_name
+STOSMO-USD,Stride Staked OSMO USD,Stride Staked OSMO USD,STOSMO,wrapped_derivative_or_real_asset_name
+DGLD-USD,DGLD - Digital Gold Token USD,DGLD - Digital Gold Token USD,DGLD,wrapped_derivative_or_real_asset_name
+STTON-USD,bemo staked TON USD,bemo staked TON USD,STTON,wrapped_derivative_or_real_asset_name
+WPLS-USD,Wrapped Pulse USD,Wrapped Pulse USD,WPLS,wrapped_derivative_or_real_asset_name
+SICX-USD,Staked ICX USD,,SICX,wrapped_derivative_or_real_asset_name
+VUSDT-USD,Venus USDT USD,,VUSDT,wrapped_derivative_or_real_asset_name
+CUSD21871-USD,Coin98 Dollar USD,Coin98 Dollar USD,CUSD,stablecoin_base
+USDJ-USD,USDJ USD,USDJ USD,USDJ,stablecoin_base
+ANKRETH-USD,Ankr Staked ETH USD,Ankr Staked ETH USD,ANKRETH,wrapped_or_derivative_base
+WUSDR-USD,Wrapped USDR USD,Wrapped USDR USD,WUSDR,wrapped_derivative_or_real_asset_name
+IDRT-USD,Rupiah Token USD,Rupiah Token USD,IDRT,stablecoin_base
+USDB-USD,USD Bancor USD,USD Bancor USD,USDB,stablecoin_base
+STJUNO-USD,Stride Staked JUNO USD,Stride Staked JUNO USD,STJUNO,wrapped_derivative_or_real_asset_name
+WFUSE-USD,Wrapped Fuse USD,Wrapped Fuse USD,WFUSE,wrapped_derivative_or_real_asset_name
+GOLD12082-USD,CyberDragon Gold USD,CyberDragon Gold USD,GOLD,wrapped_derivative_or_real_asset_name
+USDC29263-USD,Overnight USDC+ USD,Overnight USDC+ USD,USDC,stablecoin_base
+WPKT-USD,Wrapped PKT USD,Wrapped PKT USD,WPKT,wrapped_derivative_or_real_asset_name
+VRT-USD,Venus Reward Token USD,Venus Reward Token USD,VRT,wrapped_derivative_or_real_asset_name
+WCANTO-USD,Wrapped CANTO USD,Wrapped CANTO USD,WCANTO,wrapped_derivative_or_real_asset_name
+VBTC-USD,Venus BTC USD,,VBTC,wrapped_derivative_or_real_asset_name
+WFLR-USD,Wrapped Flare USD,Wrapped Flare USD,WFLR,wrapped_derivative_or_real_asset_name
+SKCS-USD,sKCS.io Staked KCS USD,sKCS.io Staked KCS USD,SKCS,wrapped_derivative_or_real_asset_name
